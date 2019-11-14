@@ -1,0 +1,5 @@
+Z = Z
+Zhi = Zhi
+Bool = Bool
+(ok7 ->  ok7) -> Uj = (Bool -> Bool) -> Nat
+((Oni -> Oni) -> Oni) -> Ftg1 = ((Bool -> Bool)) -> Bool) -> Bool

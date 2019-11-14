@@ -1,0 +1,4 @@
+X = X
+Bool = Bool
+c109 -> c109 = Nat -> Nat
+(c -> c) -> f = (Nat -> Nat) -> Nat
