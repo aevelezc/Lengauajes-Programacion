@@ -4,7 +4,7 @@
   
 # Describción general del programa
 
-La unificación es un proceso que permite, mediante la sustitución de variables por términos, obtener, a partir de un par de fórmulas, una tercera que será verdadera siempre que cualquiera de las primeras lo sea. Esta característica hace de la unificación una herramienta muy útil en la demostración formal de teoremas.
+Un programa que con el algoritmo de unificacion evaluara un grupo de expresiones y dira si se pueden unificar o no y dara la unificacion de estos.
 
 # Version sistema operativo
 
