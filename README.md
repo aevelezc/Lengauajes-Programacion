@@ -12,7 +12,7 @@ Sistema operativo de 64 bits.
 
 # Lenguaje deprogramacion
 
-c++ Version de el compilador: Dev-C ++ 5.5.3
+Java compilador JDK
 
 # Referencias
 
